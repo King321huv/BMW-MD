@@ -1,6 +1,6 @@
 {
-  "name":"BMW-X5MD",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"꧁𓊈𒆜🆃🅰🅷🅰سکندر𒆜𓊉꧂",
+  "description":"bot developer꧁𓊈𒆜🆃🅰🅷🅰سکندر𒆜𓊉꧂,
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"꧁𓊈𒆜🆃🅰🅷🅰سکندر𒆜𓊉꧂",
       "required":false
 
     } ,
